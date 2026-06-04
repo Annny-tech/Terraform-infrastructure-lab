@@ -96,7 +96,7 @@ Type `yes` when prompted.
 aws ec2 describe-instances
 ```
 
-## Architecture Diagram
+## aws ec2 outputs 
 
 ![image alt](https://github.com/Annny-tech/Terraform-infrastructure-lab/blob/043c9f368b86d45ed29f4f553855553f6f53f45c/images/aws_ec2_cli.png)
 
