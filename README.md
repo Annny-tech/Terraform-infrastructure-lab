@@ -10,15 +10,6 @@ In addition to Terraform configurations, this repository includes detailed imple
 
 This repository is organized using Terraform best practices to ensure scalability, maintainability, and reusability of infrastructure code.
 
-```text
-terraform-infrastructure-lab/
-├── provider.tf
-├── variables.tf
-├── main.tf
-├── outputs.tf
-├── terraform.tfvars
-└── README.md
-```
 ### `provider.tf`
 
 Contains the provider configuration required for Terraform to interact with AWS services. This file specifies the target region and authentication settings used during deployment.
@@ -46,3 +37,44 @@ Stores output values that are displayed after a successful deployment. Outputs p
 
 This structure promotes Infrastructure as Code (IaC) principles and aligns with modern cloud engineering and DevOps practices.
 
+## Directory Structure
+
+Terraform-infrastructure-lab/
+│
+├── README.md
+│
+├── aws-vpc/
+│   ├── provider.tf
+│   ├── variables.tf
+│   ├── vpc.tf
+│   ├── subnet.tf
+│   ├── route-table.tf
+│   ├── internet-gateway.tf
+│   ├── outputs.tf
+│   └── README.md
+│
+├── aws-ec2/
+│   ├── provider.tf
+│   ├── variables.tf
+│   ├── security-group.tf
+│   ├── ec2.tf
+│   ├── outputs.tf
+│   └── README.md
+│
+├── aws-s3/
+│   ├── provider.tf
+│   ├── s3.tf
+│   ├── outputs.tf
+│   └── README.md
+│
+└── aws-3-tier-architecture/
+    ├── provider.tf
+    ├── variables.tf
+    ├── vpc.tf
+    ├── subnet.tf
+    ├── route-table.tf
+    ├── security-group.tf
+    ├── ec2.tf
+    ├── load-balancer.tf
+    ├── outputs.tf
+    └── README.md
