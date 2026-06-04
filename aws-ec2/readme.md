@@ -96,6 +96,11 @@ Type `yes` when prompted.
 aws ec2 describe-instances
 ```
 
+## Architecture Diagram
+```
+![EC2 Architecture](aws_ec2_cli.png)
+```
+
 ### 6. Destroy Infrastructure
 
 ```bash
