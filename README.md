@@ -39,6 +39,7 @@ This structure promotes Infrastructure as Code (IaC) principles and aligns with 
 
 ## Directory Structure
 
+```
 Terraform-infrastructure-lab/
 │
 ├── README.md
@@ -78,3 +79,4 @@ Terraform-infrastructure-lab/
     ├── load-balancer.tf
     ├── outputs.tf
     └── README.md
+```    
