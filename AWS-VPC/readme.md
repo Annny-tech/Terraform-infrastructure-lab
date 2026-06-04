@@ -91,7 +91,7 @@ Creates a subnet inside the VPC.
 | Attribute | Value |
 |------------|---------|
 | CIDR Block | 10.0.1.0/24 |
-| Availability Zone | ap-south-1a |
+| Availability Zone | us-east-1a |
 | Auto Public IP | Enabled |
 
 ---
