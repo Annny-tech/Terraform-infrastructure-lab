@@ -98,7 +98,8 @@ aws ec2 describe-instances
 
 ## Architecture Diagram
 ```
-![EC2 Architecture](aws_ec2_cli.png)
+
+![EC2 Architecture](images/aws_ec2_cli.png)
 ```
 
 ### 6. Destroy Infrastructure
