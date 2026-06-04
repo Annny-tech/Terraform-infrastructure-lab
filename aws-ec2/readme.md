@@ -135,3 +135,7 @@ public_ip   = xx.xx.xx.xx
 * AWS EC2
 * AWS CLI
 * Git & GitHub
+
+## Final Ec2 Details
+
+![image alt](https://github.com/Annny-tech/Terraform-infrastructure-lab/blob/a02b45e958bc50cb6f2b32129910be6ac9243ce7/images/aws_overview.png)
