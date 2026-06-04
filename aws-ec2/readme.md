@@ -97,10 +97,11 @@ aws ec2 describe-instances
 ```
 
 ## Architecture Diagram
-```
 
-![EC2 Architecture](images/aws_ec2_cli.png)
-```
+<p align="center">
+  <img src="images/aws_ec2_cli.png" width="900">
+</p>
+
 
 ### 6. Destroy Infrastructure
 
