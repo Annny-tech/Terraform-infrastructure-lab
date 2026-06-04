@@ -130,7 +130,7 @@ Allows inbound traffic:
 Outbound traffic is allowed to all destinations.
 ---
 ## Output in CLI
-![image alt](https://github.com/Annny-tech/Terraform-infrastructure-lab/blob/043c9f368b86d45ed29f4f553855553f6f53f45c/images/aws_ec2_cli.png)
+![image alt](https://github.com/Annny-tech/Terraform-infrastructure-lab/blob/3f104773a4b7d3ea3c25b5daf5f62eff92900592/images/vpcclioutput.png)
 
 
 ---
@@ -215,6 +215,14 @@ terraform output
 ```
 
 ---
+
+## VPC DETAILS
+
+![image alt](https://github.com/Annny-tech/Terraform-infrastructure-lab/blob/3f104773a4b7d3ea3c25b5daf5f62eff92900592/images/vpc.png)
+
+## SECURITY GROUP DETAILS
+
+![image alt](https://github.com/Annny-tech/Terraform-infrastructure-lab/blob/3f104773a4b7d3ea3c25b5daf5f62eff92900592/images/security_group.png)
 
 ## Destroy Infrastructure
 
