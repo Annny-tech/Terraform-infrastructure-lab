@@ -98,10 +98,7 @@ aws ec2 describe-instances
 
 ## Architecture Diagram
 
-<p align="center">
-  <img src="images/aws_ec2_cli.png" width="900">
-</p>
-
+![image alt](https://github.com/Annny-tech/Terraform-infrastructure-lab/blob/043c9f368b86d45ed29f4f553855553f6f53f45c/images/aws_ec2_cli.png)
 
 ### 6. Destroy Infrastructure
 
