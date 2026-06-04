@@ -1,8 +1,7 @@
 resource "aws_instance" "web" {
-  ami           = "ami-091138d0f0d41ff90"
-  instance_type = "t2.micro"
-
+  ami                    = var.ami_id
+  instance_type          = var.instance_type
   tags = {
-    Name = "Terraform-EC2"
+    Name = var.instance_name
   }
 }
