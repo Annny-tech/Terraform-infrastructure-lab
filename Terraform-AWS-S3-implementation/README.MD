@@ -65,3 +65,5 @@ terraform destroy
 - Bucket Name
 - Bucket ARN
 
+# CLI OUTPUT
+![image alt](https://github.com/Annny-tech/Terraform-infrastructure-lab/blob/3f104773a4b7d3ea3c25b5daf5f62eff92900592/images/vpcclioutput.png)
