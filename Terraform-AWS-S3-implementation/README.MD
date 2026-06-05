@@ -66,4 +66,7 @@ terraform destroy
 - Bucket ARN
 
 # CLI OUTPUT
-![image alt](https://github.com/Annny-tech/Terraform-infrastructure-lab/blob/3f104773a4b7d3ea3c25b5daf5f62eff92900592/images/vpcclioutput.png)
+![image alt](https://github.com/Annny-tech/Terraform-infrastructure-lab/blob/0292aac3ccaacb5f5533dd7f2429bcc656d2846d/images/S3cli.png)
+
+# AWS S3 DETAIL OUTPUT
+![image alt](https://github.com/Annny-tech/Terraform-infrastructure-lab/blob/0292aac3ccaacb5f5533dd7f2429bcc656d2846d/images/S3aws.png)
