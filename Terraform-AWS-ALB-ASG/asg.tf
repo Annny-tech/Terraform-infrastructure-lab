@@ -14,7 +14,7 @@ resource "aws_autoscaling_group" "asg" {
   ]
 
   launch_template {
-    id      = aws_launch_template.web.id
+    id      = aws_launch_template.Terra.id
     version = "$Latest"
   }
 
