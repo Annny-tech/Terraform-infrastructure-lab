@@ -20,11 +20,13 @@ This Terraform module provisions an Amazon EC2 instance with customizable config
 ## Module Structure
 
 ```text
-instance-module/
+instance-terraform/
 ├── main.tf
 ├── variables.tf
-├── outputs.tf
+├── provider.tf
 └── README.md
+Module-terraform
+└── main.tf
 ```
 
 ---
