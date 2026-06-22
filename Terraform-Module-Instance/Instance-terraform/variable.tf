@@ -15,8 +15,3 @@ variable "instance_type" {
     type = string
 }
 
-variable "instance_name" {
-    description = "instance_name"
-    type = string
-  
-}
