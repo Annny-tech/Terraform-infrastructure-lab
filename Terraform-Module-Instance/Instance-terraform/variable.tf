@@ -4,7 +4,7 @@ variable "aws_region" {
   
 }
 
-variable "ami-ID" {
+variable "ami-id" {
     description = "ami_id"
     type = string
   

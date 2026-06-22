@@ -1,6 +1,6 @@
 module "ec2" {
     source = "../Instance-terraform"
-    ami-ID =  "ami-0e35ddab05955cf57"
+    ami-id =  "ami-0b6d9d3d33ba97d99"
     aws_region = "us-east_1"
     instance_type = "t3.micro"
   
