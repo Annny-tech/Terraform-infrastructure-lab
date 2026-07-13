@@ -113,3 +113,4 @@ instance_private_ip = "10.0.1.10"
 * Apply meaningful tags for resource management.
 
 ---
+new addition
