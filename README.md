@@ -79,4 +79,4 @@ Terraform-infrastructure-lab/
     ├── load-balancer.tf
     ├── outputs.tf
     └── README.md
-```    CHNAGE
+```    
