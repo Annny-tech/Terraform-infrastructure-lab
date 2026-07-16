@@ -40,3 +40,4 @@ resource "aws_instance" "web" {
     Name = "Web-Server-${count.index}"
   }
 }
+chnage
